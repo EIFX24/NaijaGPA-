@@ -1,0 +1,6 @@
+{
+  "name": "NaijaGPA - Nigerian Student GPA & CGPA Master",
+  "description": "Next-level GPA & CGPA calculator, interactive grade academy, target grade simulator, and semester academic planner designed specifically for Nigerian university and polytechnic students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
